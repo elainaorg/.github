@@ -1,1 +1,1 @@
-![Elaina](./Elaina.webp)
+![Elaina](profile/Elaina.webp)
